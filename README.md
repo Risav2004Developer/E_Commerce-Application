@@ -1,17 +1,17 @@
 # E-Commerce Backend Project with Customized Admin Section
 Welcome to the E-Commerce Backend Project! This project features a comprehensive e-commerce platform with a robust admin section for managing various aspects of the store.
 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 :
-𝐔𝐬𝐞𝐫 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 :
+1.1 )𝐔𝐬𝐞𝐫 𝐑𝐞𝐠𝐢𝐬𝐭𝐫𝐚𝐭𝐢𝐨𝐧 𝐚𝐧𝐝 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 :
 1) Register new users
 2) User login and logout
-𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
+1.2) 𝐏𝐫𝐨𝐝𝐮𝐜𝐭 𝐌𝐚𝐧𝐚𝐠𝐞𝐦𝐞𝐧𝐭
 1) Separate product page for products
 2) Search functionality to find products
-𝐒𝐡𝐨𝐩𝐩𝐢𝐧𝐠 𝐂𝐚𝐫𝐭
+1.3) 𝐒𝐡𝐨𝐩𝐩𝐢𝐧𝐠 𝐂𝐚𝐫𝐭
 1) Add products to cart
 2) Checkout process
 3) Place orders
-𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐧𝐞𝐥
+1.4) 𝐀𝐝𝐦𝐢𝐧 𝐏𝐚𝐧𝐞𝐥
 1) Change banners as needed
 2) Add new products and change the price according to the need 
 3) View and manage orders with detailed information
